@@ -3,10 +3,10 @@ MQTT-Client
 Steps:
 
 1) Go to the project folder 
-	cd MQTT-Client
+	"cd MQTT-Client"
 
 2)Do a maven install
-	mvn clean install
+	"mvn clean install"
 
 3)Make sure Mosquitto  broker is running
 
