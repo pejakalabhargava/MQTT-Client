@@ -19,5 +19,5 @@ b)For MQTT Publisher
 -t Sample/Java -s 1 -m "customized message"
 
 Note:
-Make Mosquito broker is installed from http://mosquitto.org/download/
-
+a)Make Mosquito broker is installed from http://mosquitto.org/download/
+b)This is also an eclipse project. This can be imported into eclipse as a project.
